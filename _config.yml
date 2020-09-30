@@ -122,8 +122,8 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: www.linkedin.com/in/morrisonjacob
+      icon: "fab fa-linkedin"
+      url: https://www.linkedin.com/in/morrisonjacob
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
