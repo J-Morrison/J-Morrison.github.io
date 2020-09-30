@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Danny Heatley"
-    url: https://www.eliteprospects.com/player/3664/dany-heatley
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Resume"
+    url: /year-archive/
+  - title: "Projects"
+    url: /collection-archive/
+  - title: "Blog"
+    url: /sitemap/
