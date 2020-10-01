@@ -6,11 +6,9 @@ author_profile: false
 header:
   overlay_image: "/assets/images/cover.jpg"
   actions:
-  - label: "Download"
-    url: /about/
 excerpt: "Aspiring controls engineer interested in bridging the gap between control theory and machine learning"
 intro: 
-  - excerpt: "'Hey! Welcome to my personal website. Feel free to poke aroud to learn a bit more about me, my interests, my background, and some of the things I've been up to."
+  - excerpt: "Hey! Welcome to my personal website. Feel free to poke aroud to learn a bit more about me, my interests, my background, and some of the things I've been up to."
 feature_row:
   - image_path: /assets/images/circle-cropped.png
     title: "About"
