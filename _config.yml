@@ -126,7 +126,7 @@ footer:
       url: https://www.linkedin.com/in/morrisonjacob
     - label: "Email"
       icon: "fas fa-envelope"
-      url: jacob-morrison@outlook.com
+      url: "mailto:jacob-morrison@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
