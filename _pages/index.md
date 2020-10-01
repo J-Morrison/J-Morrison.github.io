@@ -9,7 +9,7 @@ header:
   actions:
 excerpt: "Aspiring controls engineer interested in bridging the gap between control theory and machine learning"
 intro: 
-  - excerpt: "Hey! Welcome to my personal website. Feel free to poke aroud to learn a little bit more about me, my interests, my background, and some of the things I've been up to."
+  - excerpt: "Hey, Welcome to my personal website! I'm Jacob and I recently completed a master's degree in Mechanical Engineering at the University of British Columbia with the Control Engineering Laboratory. While completing my degree I developed a keen interest in the intersection of control theory and machine learning and am currently seeking opportunities to pursue this interest and apply the knowledge I've gained to solve complex control problems in our everyday world. Feel free to poke aroud to learn a little bit more about me."
 feature_row:
   - image_path: /assets/images/about.jpg
     title: "About"
