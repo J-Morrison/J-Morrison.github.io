@@ -24,9 +24,9 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/circle-cropped.png
     title: "Resume"
-    excerpt: "View an up to date version of my resume."
+    excerpt: "View an up to date version of my resume in .pdf format."
     url: /Resume/
-    btn_label: "Learn More"
+    btn_label: "Download"
     btn_class: "btn--inverse"
 ---
 {% include feature_row id="intro" type="center" %}
