@@ -2,7 +2,7 @@
 permalink: /
 hidden: true
 Title: "Home"
-tagline: "Jacob Morrison"
+tagline: "Hey"
 layout: splash
 author_profile: false
 header:
@@ -28,5 +28,4 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
-Testing
 {% include feature_row %}
