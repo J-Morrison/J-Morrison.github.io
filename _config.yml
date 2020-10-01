@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dirt"
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Jacob's Personal Site"
+title                    : "Jacob Morrison"
 title_separator          : "-"
-subtitle                 : #"site tagline that appears below site title in masthead"
+subtitle                 : "A Personal Website"
 name                     : "Jacob Morrison"
 description              : "Welcome to my personal website!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
