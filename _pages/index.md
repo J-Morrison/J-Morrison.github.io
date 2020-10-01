@@ -27,7 +27,7 @@ feature_row:
     title: "Resume"
     excerpt: "View an up to date version of my resume in pdf format."
     url: /assets/docs/J_Morrison_Resume.pdf
-    btn_label: "Download"
+    btn_label: "View"
     btn_class: "btn--inverse"
 ---
 {% include feature_row id="intro" type="center" %}
