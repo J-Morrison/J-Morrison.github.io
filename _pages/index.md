@@ -9,6 +9,7 @@ header:
   - label: "Download"
     url: /about/
 excerpt: "Aspiring controls engineer interested in bridging the gap between control theory and machine learning"
+excerpt: "Aspiring controls engineer interested in bridging the gap between control theory and machine learning"
 feature_row:
   - image_path: /assets/images/circle-cropped.png
     alt: "placeholder image 1"
