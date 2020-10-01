@@ -12,19 +12,22 @@ intro:
 feature_row:
   - image_path: /assets/images/circle-cropped.png
     title: "About"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Find out who I am and what interests me."
     url: /about/
-    btn_label: "Read More"
+    btn_label: "Learn More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/circle-cropped.png
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Projects"
+    excerpt: "Enter the **Projects** page to learn about some of the projects I've completed"
+    url: /projects/
+    btn_label: "Learn More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/circle-cropped.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Resume"
+    excerpt: "Here you can find an up to date version of my resume."
+    url: /Resume/
+    btn_label: "Learn More"
+    btn_class: "btn--inverse"
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
