@@ -125,14 +125,14 @@ footer:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/morrisonjacob"
     - label: "GitHub"
-      icon: "fab fa-github
+      icon: "fab fa-github"
       url: "https://github.com/J-Morrison"
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:jacob-morrison@outlook.com"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      #url: ""
+      #url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
