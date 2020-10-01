@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/circle-cropped.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aspiring controls engineer interested in bridging the gap between control theory and machine learning"
   location         : "Vancouver, Canada"
-  email            : "jacob-morrison@outlook.com"
+  #email            : "jacob-morrison@outlook.com"
   links:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
