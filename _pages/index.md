@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/resume.png
     title: "Resume"
     excerpt: "View an up to date version of my resume in pdf format."
-    url: /assets/docs/mydoc.pdf
+    url: /assets/docs/J_Morrisson_resume.pdf
     btn_label: "Download"
     btn_class: "btn--inverse"
 ---
