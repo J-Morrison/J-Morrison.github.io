@@ -17,7 +17,7 @@ feature_row:
     url: /about/
     btn_label: "Learn More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/circle-cropped.png
+  - image_path: /assets/images/proj.jpg
     title: "Projects"
     excerpt: "Take a look at some of the projects I've completed"
     url: /projects/
