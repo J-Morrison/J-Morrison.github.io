@@ -7,7 +7,7 @@ header:
   overlay_image: "/assets/images/cover.jpg"
   actions:
   - label: "Download"
-  url: /about/
+    url: /about/
 feature_row:
   - image_path: /assets/images/circle-cropped.png
     alt: "placeholder image 1"
