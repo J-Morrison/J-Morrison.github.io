@@ -121,12 +121,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Linkedin"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/morrisonjacob"
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:jacob-morrison@outlook.com"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/morrisonjacob"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/J-Morrison"
