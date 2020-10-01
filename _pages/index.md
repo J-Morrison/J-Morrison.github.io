@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_image: "/assets/images/cover.jpg"
   actions:
-excerpt: "Aspiring controls engineer interested in bridging the gap between control theory and machine learning"
+excerpt: "**Aspiring controls engineer interested in bridging the gap between control theory and machine learning**"
 intro: 
   - excerpt: "Hey! Welcome to my personal website. Feel free to poke aroud to learn a little bit more about me, my interests, my background, and some of the things I've been up to."
 feature_row:
