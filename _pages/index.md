@@ -4,7 +4,7 @@ hidden: true
 layout: splash
 author_profile: false
 header:
-  overlay_image: "/assets/images/cover_dark.jpg"
+  overlay_image: "/assets/images/cover.jpg"
   actions:
 excerpt: "**Aspiring controls engineer interested in bridging the gap between control theory and machine learning**"
 intro: 
