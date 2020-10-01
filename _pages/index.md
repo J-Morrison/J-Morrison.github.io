@@ -11,7 +11,7 @@ excerpt: "Aspiring controls engineer interested in bridging the gap between cont
 intro: 
   - excerpt: "Hey! Welcome to my personal website. Feel free to poke aroud to learn a little bit more about me, my interests, my background, and some of the things I've been up to."
 feature_row:
-  - image_path: /assets/images/circle-cropped.png
+  - image_path: /assets/images/about.png
     title: "About"
     excerpt: "Discover a little bit about who I am and what interests me."
     url: /about/
