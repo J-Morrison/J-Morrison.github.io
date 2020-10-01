@@ -4,7 +4,7 @@ title: "About"
 layout: single
 author_profile: true
 header:
-  image: "/assets/images/cover.png"
+  image: "/assets/images/about_cover.png"
 ---
 Hey, my name is Jacob, and I’m an aspiring controls engineer who recently completed a master's degree in Mechanical Engineering at the University of British Columbia with the Control Engineering Laboratory. Throughout my studies I developed a keen interest in the intersection of control theory and machine learning and how aspects of machine learning can be used and adapted to improve the performance of more traditional control algorithms. At the moment, I reside in beautiful Vancouver, Canada and am seeking opportunities to pursue my interest in bridging the gap between control theory and machine learning to solve complex control problems in our everyday world.
 
