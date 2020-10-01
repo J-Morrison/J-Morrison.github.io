@@ -25,7 +25,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/resume.png
     title: "Resume"
-    excerpt: "Scan through the current iteration of resume in pdf format."
+    excerpt: "Scan through the current iteration of my resume in pdf format."
     url: /resume/JacobMorrison_Resume.pdf
     btn_label: "View"
     btn_class: "btn--inverse"
