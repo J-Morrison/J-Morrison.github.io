@@ -23,7 +23,7 @@ feature_row:
     url: /projects/
     btn_label: "Explore"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/circle-cropped.png
+  - image_path: /assets/images/resume.png
     title: "Resume"
     excerpt: "View an up to date version of my resume in pdf format."
     url: /Resume/
