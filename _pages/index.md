@@ -7,8 +7,8 @@ header:
   overlay_image: "/assets/images/cover.png"
   overlay_filter: 0.2
   actions:
-    - label: "Connect"
-      url: "https://www.linkedin.com/in/morrisonjacob"
+#    - label: "Connect"
+#      url: "https://www.linkedin.com/in/morrisonjacob"
     - label: "Get in touch"
       url: "mailto:jacob-morrison@outlook.com"
 excerpt: "Aspiring controls engineer interested in bridging the gap between control theory and machine learning"
