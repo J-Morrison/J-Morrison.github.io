@@ -7,13 +7,13 @@ header:
   overlay_image: "/assets/images/cover.jpg"
   actions:
   - label: "Download"
-  url: "/about/"
+  url: /about/
 feature_row:
   - image_path: /assets/images/circle-cropped.png
     alt: "placeholder image 1"
     title: "About"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: /about/
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/circle-cropped.png
@@ -27,5 +27,5 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
-Testing ***text***
+Testing
 {% include feature_row %}
