@@ -2,5 +2,5 @@
 permalink: /about/
 title: "About"
 layout: single
-author_profile: false
+author_profile: true
 ---
