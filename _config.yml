@@ -124,9 +124,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: https://www.linkedin.com/in/morrisonjacob
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: jacob-morrison@outlook.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
