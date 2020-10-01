@@ -19,7 +19,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/proj.png
     title: "Projects"
-    excerpt: "Take a look at some of the projects I've completed"
+    excerpt: "Take a look at some of the projects I've worked on"
     url: /projects/
     btn_label: "Explore"
     btn_class: "btn--inverse"
