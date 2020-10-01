@@ -1,8 +1,6 @@
 ---
 permalink: /
 hidden: true
-Title: "Home"
-tagline: "Hey"
 layout: splash
 author_profile: false
 header:
