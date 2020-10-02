@@ -1,6 +1,6 @@
 ---
-title: "ML about NHL"
-excerpt: "Final project for cpsc 532M at UBC"
+title: "Predicting NHL Game Outcomes Using Machine Learning"
+excerpt: "This was the final project for a graduate level course on machine learning and data mining."
 header:
   image: /assets/images/resume.png
   teaser: /assets/images/resume.png

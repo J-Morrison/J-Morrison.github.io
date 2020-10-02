@@ -1,6 +1,6 @@
 ---
-title: "robotics at ubc"
-excerpt: "project for robotics course"
+title: "Motion Control Of A Robotic Manipulator"
+excerpt: "This was the final project for a course I took during my master's degree on control in robotics."
 header:
   image: /assets/images/resume.png
   teaser: /assets/images/resume.png
