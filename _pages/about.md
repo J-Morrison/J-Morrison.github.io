@@ -1,6 +1,9 @@
 ---
 permalink: /about/
 title: "About"
+actions:
+    - label: "Get In Touch"
+      url: "mailto:jacob-morrison@outlook.com"
 layout: single
 author_profile: true
 header:
