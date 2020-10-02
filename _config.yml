@@ -148,7 +148,7 @@ footer:
 
 #collections
 collections:
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
 
