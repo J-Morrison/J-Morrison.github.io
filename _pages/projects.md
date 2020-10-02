@@ -1,6 +1,7 @@
 ---
 permalink: /projects/
 title: "Projects"
-layout: single
+layout: collection
+entries_layout: grid
 author_profile: false
 ---
