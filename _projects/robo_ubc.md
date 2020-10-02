@@ -1,4 +1,7 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "robotics at ubc"
+excerpt: "project for robotics course"
+header:
+  image: /assets/images/resume.png
+  teaser: /assets/images/resume.png
 ---

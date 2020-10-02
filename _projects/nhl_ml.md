@@ -1,4 +1,7 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "ML about NHL"
+excerpt: "Final project for cpsc 532M at UBC"
+header:
+  image: /assets/images/resume.png
+  teaser: /assets/images/resume.png
 ---
