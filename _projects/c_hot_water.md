@@ -1,5 +1,5 @@
 ---
-title: "Control Of A Domestic Hot Water System"
+title: "Domestic Hot Water Control"
 excerpt: "This was the final project for a graduate level course on modern control engineering."
 header:
   image: /assets/images/resume.png
