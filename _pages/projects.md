@@ -9,4 +9,4 @@ author_profile: true
 header:
   image: "/assets/images/proj_cover.png"
 ---
-Sample document listing for the collection `_projects`.
+Here are a few of the projects I've worked on recently that relate directly to controls and/or machine learning. If you have any interest in hearing about any of the older projects I've been involved with from my time at the CEA in France all the back to the start of my undergraduate degree please reach out and I'd be happy to discuss them with you.
