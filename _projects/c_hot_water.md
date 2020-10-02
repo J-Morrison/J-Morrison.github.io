@@ -5,3 +5,4 @@ header:
   image: /assets/images/resume.png
   teaser: /assets/images/resume.png
 ---
+*Completed April 2019*
