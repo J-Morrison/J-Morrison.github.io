@@ -5,7 +5,7 @@ permalink: /projects/
 collection: projects
 entries_layout: grid
 author_profile: true
-#classes: wide
+classes: wide
 header:
   image: "/assets/images/proj_cover.png"
 ---
