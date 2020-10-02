@@ -5,4 +5,5 @@ header:
   image: /assets/images/resume.png
   teaser: /assets/images/resume.png
 ---
-{:August 2020 .text-center}
+August 2020
+{: .text-center}
