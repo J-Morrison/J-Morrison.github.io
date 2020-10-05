@@ -15,6 +15,6 @@ A simulation of an ISTS using real world hot water demand data then demonstrates
 
 I completed this project for my master's thesis, and the full published thesis can be found by clicking below.
 
-[Published Thesis](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0394371){: .btn .btn--inverse}
+[Published Thesis](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0394371){: .btn .btn--primary}
 
 *Note: The thesis is currently embargoed until the publication of a journal paper I wrote based on similar results. If you would like to view the full thesis document please contact me and I would be happy to share the pdf file with you.*
