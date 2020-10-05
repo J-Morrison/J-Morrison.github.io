@@ -13,3 +13,6 @@ This approach involves separating long-term disturbance data, which in this case
 
 A simulation of an ISTS using real world hot water demand data then demonstrates the effectiveness of the proposed approach to disturbance prediction, achieving higher performance EMPC than can be attained with existing disturbance prediction methods. Specifically, the EMPC implementation using the IL-based disturbance prediction algorithm is shown to prevent constraint violations within the ISTS more effectively than all other EMPC implementations while decreasing the average daily system cost by over 6%.
 
+I completed this project for my master's thesis, and the full published thesis document can be found by following the link below.
+
+[Solar Control Based On Load Prediction](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0394371){: .btn .btn--primary}
