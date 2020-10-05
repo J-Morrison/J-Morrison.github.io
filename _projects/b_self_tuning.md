@@ -7,3 +7,7 @@ header:
   teaser: /assets/images/resume.png
 ---
 *Completed April 2019*
+
+I completed this project for a graduate level course on self tuning control. The full pdf document for the project can be accessed by clicking below.
+
+[View Document](/projects/JacobMorrison_DomesticHotWaterControl.pdf){: .btn .btn--primary}
