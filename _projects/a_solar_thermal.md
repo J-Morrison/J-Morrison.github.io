@@ -13,8 +13,8 @@ This approach involves separating long-term disturbance data, which in this case
 
 A simulation of an ISTS using real world hot water demand data then demonstrates the effectiveness of the proposed approach to disturbance prediction, achieving higher performance EMPC than can be attained with existing disturbance prediction methods. Specifically, the EMPC implementation using the IL-based disturbance prediction algorithm is shown to prevent constraint violations within the ISTS more effectively than all other EMPC implementations while decreasing the average daily system cost by over 6%.
 
-I completed this project for my master's thesis, and the full published thesis can be found by clicking below.
+I completed this project for my master's thesis. The full thesis document can be found published through the University of British Columbia Library here:
 
-[Published Thesis](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0394371){: .btn .btn--primary}
+[View Thesis](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0394371){: .btn .btn--inverse}
 
 *Note: The thesis is currently embargoed until the publication of a journal paper I wrote based on similar results. If you would like to view the full thesis document please contact me and I would be happy to share the pdf file with you.*
