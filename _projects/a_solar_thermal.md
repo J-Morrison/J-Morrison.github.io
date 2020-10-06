@@ -2,7 +2,7 @@
 title: "Solar Control Based On Load Prediction"
 excerpt: "This project was my master's thesis. It incorporates both controls and machine learning."
 header:
-  #image: /assets/images/solar_thermal.png
+  #image: /assets/images/solar_thermal_.png
   teaser: /assets/images/solar_thermal.png
 ---
 *Completed August 2020*

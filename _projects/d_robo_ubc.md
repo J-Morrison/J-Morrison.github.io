@@ -2,14 +2,14 @@
 title: "Motion Control Of A Robotic Manipulator"
 excerpt: "This was the final project for a course I took during my master's degree on control in robotics."
 header:
-  #image: /assets/images/robo.png
+  #image: /assets/images/robo_.png
   teaser: /assets/images/robo.png
 ---
 *Completed December 2018*
 
 This project is task based and involes the open loop simulation and contoller implementation of the following two-link manipulator:
 
-![image-center](/assets/images/two_link_manipulator.png){: .align-center}
+![image-center](/assets/images/hockeyML.png){: .align-center}
 
 For the open loop simulation, the task is simply to simulate the two-link manipulator's natural response to three different initializations, where the initial position of the manipulator, the manipulator's motor torques and the friction acting on the manipulator are varied with each. 
 
