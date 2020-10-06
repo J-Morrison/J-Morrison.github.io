@@ -11,7 +11,7 @@ This project is task based and involes the open loop simulation and contoller im
 
 ![Two-Link Manipulator](/assets/images/twolink.png){: .align-center}
 
-For the open loop simulation, the task is simply to simulate the two-link manipulator's natural response to three different initializations, where the initial position of the manipulator, the manipulator's motor torques and the friction acting on the manipulator are varied with each. 
+For the open loop simulation, the task is simply to simulate the two-link manipulator's natural response to three different initializations. These different initializtations each feature different initial manipulator positions, different manipulator motor torques, and different coefficients of friction between manipulator joints. 
 
 For the controller implimentation, the task is then to design two seperate controllers and simulate the performance of both with regards to moving the manipulator from an initial position to a given set point. The first controller that is designed is a PD + gravity controller, which is an example of a closed loop joint-space controller. The second designed controller is then a stiffness cotroller, which is an example of a closed loop Cartesian-space controller.
 
