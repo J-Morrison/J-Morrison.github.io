@@ -9,7 +9,7 @@ header:
 
 This project involes the open loop simulation and contoller implimentation of the following two-link manipulator:
 
-![image-left](/assets/images/two_link_manipulator.png){: .align-left}
+![image-left](/assets/images/two_link_manipulator_.png){: .align-left}
 
 I completed this project for a course I took during my master's degree on control in robotics. All the project files can be seen in a repo on my github page,
 which can be accessed by clicking below.
