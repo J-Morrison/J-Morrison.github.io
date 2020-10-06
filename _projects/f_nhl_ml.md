@@ -2,7 +2,7 @@
 title: "Using Machine Learning To Predict NHL Game Outcomes"
 excerpt: "This was the final project for a graduate level course on machine learning and data mining."
 header:
-  image: /assets/images/hockeyML.png
+  #image: /assets/images/hockeyML.png
   teaser: /assets/images/hockeyML.png
 ---
 *Completed December 2018*
