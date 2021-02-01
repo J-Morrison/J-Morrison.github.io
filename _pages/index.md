@@ -11,9 +11,9 @@ header:
 #      url: "https://www.linkedin.com/in/morrisonjacob"
     - label: "Get In Touch"
       url: "mailto:jacob-morrison@outlook.com"
-excerpt: "Aspiring systems/software engineer interested in machine learning and its applications"
+excerpt: "Software engineer interested in machine learning and its applications"
 intro: 
-  - excerpt: "Hey, welcome to my website! I'm Jacob and I recently completed a master's degree in Mechanical Engineering at the University of British Columbia with the Control Engineering Laboratory where I focused on using machine learning techniques to improve control performance. Feel free to poke around to learn a little more about me."
+  - excerpt: "Hey, welcome to my website! I'm Jacob and I am currently based in Vancouver, Canada, where I am working as a Software Engineer at MDA. Feel free to poke around to learn a little more about me."
 feature_row:
   - image_path: /assets/images/about.png
     title: "About"
